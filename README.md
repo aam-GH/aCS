@@ -18,7 +18,7 @@
 | :---: | :--- | :---: |
 | 1 | [`CP` - Competitive Programming](https://cpbook.net/) |  |
 
-### `fCM`
+### `eM`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [`AoPS` - Competitive Mathematics](https://artofproblemsolving.com/) |  |
+| 1 | [`AoPS` - Essentials of Mathematics](https://artofproblemsolving.com/) |  |
