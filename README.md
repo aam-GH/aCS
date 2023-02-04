@@ -1,4 +1,4 @@
-### `fCS`
+### `Fundamentals of CS`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Foundation Mathematics](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
