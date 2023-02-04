@@ -12,13 +12,3 @@
 | 9 | [Operating Systems](https://india.oup.com/product/principles-of-operating-systems-9780198082873) |  |
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/modern-database-management-jeff-hoffer-v9780134792279) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
-
-### `fCP`
-| Index | Subjects | Completed? |
-| :---: | :--- | :---: |
-| 1 | [`CP` - Competitive Programming](https://cpbook.net/) |  |
-
-### `eM`
-| Index | Subjects | Completed? |
-| :---: | :--- | :---: |
-| 1 | [`AoPS` - Essentials of Mathematics](https://artofproblemsolving.com/) |  |
