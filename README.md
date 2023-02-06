@@ -1,4 +1,4 @@
-### `fCS`
+### `fCS - Fundamentals of Computer Science`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Foundation Mathematics](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
@@ -13,12 +13,12 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/modern-database-management-jeff-hoffer-v9780134792279) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `fCP`
+### `fCP - Fundamentals of Competitive Programming`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Competitive Programming](https://cpbook.net/) |  |
 
-### `fCM`
+### `fCM - Fundamentals of Competitive Mathematics`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [`AoPS` - Competitive Mathematics](https://artofproblemsolving.com/) |  |
