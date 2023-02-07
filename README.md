@@ -1,7 +1,7 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Introduction to Competitive Programming](https://usaco.guide/) |  |
+| 1 | [Competitive Programming 1](https://usaco.guide/) |  |
 
 ### `fCS`
 | Index | Subjects | Completed? |
@@ -21,14 +21,4 @@
 ### `rCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [CP Reference](https://cpbook.net/) |  |
-
-### `rComputing`
-| Index | Subjects | Completed? |
-| :---: | :--- | :---: |
-| 1 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
-
-### `fMathematics`
-| Index | Subjects | Completed? |
-| :---: | :--- | :---: |
-| 1 | [`AoPS` - Fundamentals of Mathematics](https://artofproblemsolving.com/) |  |
+| 1 | [Competitive Programming 2](https://cpbook.net/) |  |
