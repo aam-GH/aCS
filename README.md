@@ -3,7 +3,7 @@
 | :---: | :--- | :---: |
 | 1 | [Competitive Programming 1](https://usaco.guide/) |  |
 
-### `fCS`
+### `eCS`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Foundation Mathematics](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
@@ -14,16 +14,11 @@
 | 6 | [Data Structures and Algorithms](https://india.oup.com/product/design-and-analysis-of-algorithms-9780198093695) |  |
 | 7 | [Theory of Computation](https://www.vitalsource.com/products/introduction-to-the-theory-of-computation-michael-sipser-v9781285401065) |  |
 | 8 | [Compiler Design](https://www.vitalsource.com/products/principles-of-compiler-design-v-raghavan-v9781259081408) |  |
-| 9 | [Operating Systems](https://india.oup.com/product/principles-of-operating-systems-9780198082873) |  |
-| 10 | [Database Management Systems](https://www.vitalsource.com/products/modern-database-management-jeff-hoffer-v9780134792279) |  |
+| 9 | [Operating Systems](https://www.vitalsource.com/products/understanding-operating-systems-ann-mchoes-ida-m-flynn-v9781337517539) |  |
+| 10 | [Database Management Systems](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
 ### `fCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Competitive Programming 2](https://cpbook.net/) |  |
-
-### `rCP`
-| Index | Subjects | Completed? |
-| :---: | :--- | :---: |
-| 1 | [Competitive Programming 3](https://link.springer.com/book/10.1007/978-3-030-39357-1) |  |
