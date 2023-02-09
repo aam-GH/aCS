@@ -3,7 +3,7 @@
 | :---: | :--- | :---: |
 | 1 | [iC++](https://www.scaler.com/topics/cpp/) |  |
 | 2 | [iDSA](https://www.scaler.com/topics/data-structures/) |  |
-| 3 | [Introduction to CP](https://codeforces.com/) |  |
+| 3 | [`iCP` - Introduction to CP](https://codeforces.com/) |  |
 
 ### `eCS`
 | Index | Subjects | Completed? |
