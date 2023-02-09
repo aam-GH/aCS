@@ -18,7 +18,12 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/modern-database-management-jeff-hoffer-v9780134792279) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `rCP`
+### `fCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Competitive Programming 2](https://cpbook.net/) |  |
+
+### `rCP`
+| Index | Subjects | Completed? |
+| :---: | :--- | :---: |
+| 1 | [Competitive Programming 3](https://link.springer.com/book/10.1007/978-3-030-39357-1) |  |
