@@ -1,7 +1,9 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Competitive Programming 1](https://usaco.guide/) |  |
+| 1 | [iC++](https://www.scaler.com/topics/cpp/) |  |
+| 2 | [iDSA](https://www.scaler.com/topics/data-structures/) |  |
+| 3 | [Introduction to CP](https://codeforces.com/) |  |
 
 ### `eCS`
 | Index | Subjects | Completed? |
@@ -21,4 +23,4 @@
 ### `fCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Competitive Programming 2](https://cpbook.net/) |  |
+| 1 | [`fCP` - Fundamentals of CP](https://cpbook.net/) |  |
