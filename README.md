@@ -1,9 +1,9 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Competitive Programming 1](https://usaco.guide/) |  |
+| 1 | [Introduction to CP](https://usaco.guide/) |  |
 
-### `eCS`
+### `fCS`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Foundation Mathematics](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
@@ -18,7 +18,7 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `fCP`
+### `rComputing`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Competitive Programming 2](https://cpbook.net/) |  |
+| 1 | [`rComputing` - Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
