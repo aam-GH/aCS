@@ -1,7 +1,7 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Introduction to CP](https://usaco.guide/) |  |
+| 1 | [`iCP` - Introduction to CP](https://usaco.guide/) |  |
 
 ### `fCS`
 | Index | Subjects | Completed? |
@@ -21,4 +21,4 @@
 ### `rComputing`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [`rComputing` - Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
+| 1 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
