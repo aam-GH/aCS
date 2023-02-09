@@ -1,9 +1,7 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Essentials of C++](https://www.scaler.com/topics/cpp/) |  |
-| 2 | [Essentials of DSA](https://www.scaler.com/topics/data-structures/) |  |
-| 3 | [`iCP` - Introduction to CP](https://codeforces.com/) |  |
+| 1 | [Competitive Programming 1](https://usaco.guide/) |  |
 
 ### `eCS`
 | Index | Subjects | Completed? |
@@ -23,4 +21,4 @@
 ### `fCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [`fCP` - Fundamentals of CP](https://cpbook.net/) |  |
+| 1 | [Competitive Programming 2](https://cpbook.net/) |  |
