@@ -1,8 +1,8 @@
 ### `iCP`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [iC++](https://www.scaler.com/topics/cpp/) |  |
-| 2 | [iDSA](https://www.scaler.com/topics/data-structures/) |  |
+| 1 | [`eC++` - Essentials of C++](https://www.scaler.com/topics/cpp/) |  |
+| 2 | [`eDSA` - Essentials of DSA](https://www.scaler.com/topics/data-structures/) |  |
 | 3 | [`iCP` - Introduction to CP](https://codeforces.com/) |  |
 
 ### `eCS`
