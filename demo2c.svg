@@ -1,0 +1,119 @@
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:3px 20px;word-break:normal;}
+.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:3px 20px;word-break:normal;}
+.tg .tg-oevy{background-color:#ffffff;border-color:#000000;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-v0nz{background-color:#ffffff;border-color:#000000;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-bj3c{background-color:#000000;border-color:#000000;position:-webkit-sticky;position:sticky;text-align:center;top:-1px;
+  vertical-align:top;will-change:transform}
+.tg .tg-hehm{background-color:#ffccc9;border-color:#000000;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wzu8{background-color:#ffffff;border-color:#000000;color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-jbyd{background-color:#ffffff;border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bj3c" colspan="3"><span style="font-weight:bold">fComputing</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-hehm" colspan="3">iCP @ ⟨1st Year⟩</td>
+  </tr>
+  <tr>
+    <td class="tg-wzu8">Index</td>
+    <td class="tg-oevy">Subjects</td>
+    <td class="tg-wzu8">Completed?</td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">1</td>
+    <td class="tg-iks7"><a href="https://usaco.guide/" target="_blank" rel="noopener noreferrer">Introduction to CP</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-hehm" colspan="3">fCS @ ⟨2nd &amp; 3rd Year⟩</td>
+  </tr>
+  <tr>
+    <td class="tg-v0nz"><span style="font-weight:bold">Index</span></td>
+    <td class="tg-oevy">Subjects</td>
+    <td class="tg-wzu8">Completed?</td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">1</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731" target="_blank" rel="noopener noreferrer">Foundation Mathematics</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">2</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/mathematics-a-discrete-introduction-edward-a-scheinerman-v9781285402062" target="_blank" rel="noopener noreferrer">Discrete Mathematics</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">3</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/digital-logic-design-holdsworth-brian-woods-v9780750645829" target="_blank" rel="noopener noreferrer">Digital Logic Design</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">4</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/computer-organization-ghosh-v9789353164294" target="_blank" rel="noopener noreferrer">Computer Organization and Architecture</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">5</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/introduction-to-c-george-s-tselikis-v9781000635744" target="_blank" rel="noopener noreferrer">Programming Language - C++</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">6</td>
+    <td class="tg-iks7"><a href="https://india.oup.com/product/design-and-analysis-of-algorithms-9780198093695" target="_blank" rel="noopener noreferrer">Data Structures and Algorithms</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">7</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/introduction-to-the-theory-of-computation-michael-sipser-v9781285401065" target="_blank" rel="noopener noreferrer">Theory of Computation</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">8</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/principles-of-compiler-design-v-raghavan-v9781259081408" target="_blank" rel="noopener noreferrer">Compiler Design</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">9</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/understanding-operating-systems-ann-mchoes-ida-m-flynn-v9781337517539" target="_blank" rel="noopener noreferrer">Operating Systems</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">10</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399" target="_blank" rel="noopener noreferrer">Database Management Systems</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">11</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139" target="_blank" rel="noopener noreferrer">Computer Networks</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+  <tr>
+    <td class="tg-hehm" colspan="3">rComputing @ ⟨4th Year⟩</td>
+  </tr>
+  <tr>
+    <td class="tg-wzu8">Index</td>
+    <td class="tg-oevy">Subjects</td>
+    <td class="tg-wzu8">Completed?</td>
+  </tr>
+  <tr>
+    <td class="tg-jbyd">1</td>
+    <td class="tg-iks7"><a href="https://www.vitalsource.com/products/computing-handbook-v9781439898451" target="_blank" rel="noopener noreferrer">Computing Reference</a></td>
+    <td class="tg-iks7"></td>
+  </tr>
+</tbody>
+</table></div>
+        </div>
+    </foreignObject>
+</svg>
