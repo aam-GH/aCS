@@ -23,4 +23,6 @@
 ### `rComputing @ ⟨Nth Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
+| 1 | [`fCP` - Fundamentals of CP](https://cpbook.net/) |  |
+| 2 | [`CPHub`](https://clist.by/) |  |
+| 3 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
