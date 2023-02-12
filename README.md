@@ -20,7 +20,7 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `rComputing @ ⟨5th Year⟩`
+### `rComputing @ ⟨Nth Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
