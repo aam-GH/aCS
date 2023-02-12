@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td align="center">2</td>
-    <td><a href="https://clist.by/" target="_blank" rel="noopener noreferrer">CPHub</a></td>
+    <td><a href="https://clist.by/" target="_blank" rel="noopener noreferrer">CP Hub</a></td>
     <td align="center"></td>
   </tr>
   <tr>
