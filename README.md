@@ -1,11 +1,11 @@
-### `iCP @ ⟨1st Year⟩`
+### `iCP @ ⟨1st & 2nd Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [`eC++` - Essentials of C++](https://www.scaler.com/topics/cpp/) |  |
 | 2 | [`eDSA` - Essentials of DSA](https://www.scaler.com/topics/data-structures/) |  |
 | 3 | [`iCP` - Introduction to CP](https://www.codechef.com/) |  |
 
-### `fCS @ ⟨2nd & 3rd Year⟩`
+### `fCS @ ⟨3rd & 4th Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Foundation Mathematics](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
@@ -20,7 +20,7 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `rComputing @ ⟨4th Year⟩`
+### `rComputing @ ⟨5th Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
