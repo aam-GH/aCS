@@ -81,7 +81,7 @@
   </tr>
     <tr></tr>
   <tr>
-    <th colspan="3">rComputing @ ⟨4th Year⟩</th>
+    <th colspan="3">rComputing @ ⟨4th & 5th Year⟩</th>
   </tr>
   <tr>
       <td align="center"><b>Index</b></td>
