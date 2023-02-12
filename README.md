@@ -81,7 +81,7 @@
   </tr>
     <tr></tr>
   <tr>
-    <th colspan="3">rComputing @ ⟨4th & 5th Year⟩</th>
+    <th colspan="3">rComputing @ ⟨4th Year⟩</th>
   </tr>
   <tr>
       <td align="center"><b>Index</b></td>
@@ -90,16 +90,6 @@
   </tr>
   <tr>
     <td align="center">1</td>
-    <td><a href="https://cpbook.net/" target="_blank" rel="noopener noreferrer">CP Reference</a></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">2</td>
-    <td><a href="https://clist.by/" target="_blank" rel="noopener noreferrer">CP Hub</a></td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center">3</td>
     <td><a href="https://www.vitalsource.com/products/computing-handbook-v9781439898451" target="_blank" rel="noopener noreferrer">Computing Reference</a></td>
     <td align="center"></td>
   </tr>
