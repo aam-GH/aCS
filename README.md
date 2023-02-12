@@ -20,9 +20,7 @@
 | 10 | [Database Management Systems](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | [Computer Networks](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `rComputing @ ⟨Nth Year⟩`
+### `rCP @ ⟨5th Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [`fCP` - Fundamentals of CP](https://cpbook.net/) |  |
-| 2 | [`CPHub` - Competitive Programming Hub](https://clist.by/) |  |
-| 3 | [Computing Reference](https://www.vitalsource.com/products/computing-handbook-v9781439898451) |  |
