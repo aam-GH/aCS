@@ -1,9 +1,7 @@
 ### `iCP @ ⟨1st & 2nd Year⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [`eC++` - Essentials of C++](https://www.scaler.com/topics/cpp/) |  |
-| 2 | [`eDSA` - Essentials of DSA](https://www.scaler.com/topics/data-structures/) |  |
-| 3 | [`iCP` - Introduction to CP](https://www.codechef.com/) |  |
+| 1 | [`iCP` - Introduction to CP](https://usaco.guide/) |  |
 
 ### `fCS @ ⟨3rd & 4th Year⟩`
 | Index | Subjects | Completed? |
