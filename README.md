@@ -3,7 +3,7 @@
 | :---: | :--- | :---: |
 | 1 | [`eC++` - Essentials of C++](https://www.scaler.com/topics/cpp/) |  |
 | 2 | [`eDSA` - Essentials of DSA](https://www.scaler.com/topics/data-structures/) |  |
-| 3 | [`iCP` - Introduction to CP](https://www.codechef.com/) |  |
+| 3 | [`iCP` - Introduction to CP](https://codeforces.com/) |  |
 
 ### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Completed? |
