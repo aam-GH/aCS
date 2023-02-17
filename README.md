@@ -1,9 +1,9 @@
-### `iCP @ ⟨Level 1⟩`
+### `iCP @ ⟨Problem Solving Introduction⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [`iCP` - Introduction to CP](https://www.codechef.com/) |  |
 
-### `fCS @ ⟨Level 2⟩`
+### `fCS @ ⟨CS Core⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | Foundation Mathematics |  |
@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `rCP @ ⟨Level 3⟩`
+### `rCP @ ⟨Problem Solving Base⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | `fCP` - Fundamentals of CP |  |
