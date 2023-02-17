@@ -1,9 +1,9 @@
-### `iCP @ ⟨1st & 2nd Year⟩`
+### `iCP @ ⟨Level 1⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | [`iCP` - Introduction to CP](https://www.codechef.com/) |  |
 
-### `fCS @ ⟨3rd & 4th Year⟩`
+### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | Foundation Mathematics |  |
@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `rCP @ ⟨5th Year⟩`
+### `rCP @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
 | 1 | `fCP` - Fundamentals of CP |  |
