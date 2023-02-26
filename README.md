@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `eMathematics @ ⟨Level 3⟩`
+### `dMathematics @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Essentials of Mathematics](https://artofproblemsolving.com/) |  |
+| 1 | [Developmental Mathematics](https://artofproblemsolving.com/) |  |
