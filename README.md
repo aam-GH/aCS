@@ -21,4 +21,4 @@
 ### `dMathematics @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Developmental Mathematics](https://artofproblemsolving.com/) |  |
+| 1 | Developmental Mathematics |  |
