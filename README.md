@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `mDM @ ⟨Level 3⟩`
+### `fCP @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | Maturity in Developmental Mathematics |  |
+| 1 | Fundamentals of CP |  |
