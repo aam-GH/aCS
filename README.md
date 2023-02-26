@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `fCP @ ⟨Level 3⟩`
+### `rCP @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | Fundamentals of CP |  |
+| 1 | CP Reference |  |
