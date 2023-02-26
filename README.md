@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `mMathematics @ ⟨Level 3⟩`
+### `mDM @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | Mathematical Maturity |  |
+| 1 | Maturity in Developmental Mathematics |  |
