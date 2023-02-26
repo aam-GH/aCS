@@ -21,4 +21,4 @@
 ### `rCP @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | CP Reference |  |
+| 1 | `rCP` - CP Reference |  |
