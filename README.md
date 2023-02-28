@@ -18,7 +18,7 @@
 | 10 | Database Management Systems |  |
 | 11 | Computer Networks |  |
 
-### `dMathematics @ ⟨Level 3⟩`
+### `AoMPS @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | The Art of Mathematical Problem Solving |  |
+| 1 | `AoMPS` - The Art of Mathematical Problem Solving |  |
