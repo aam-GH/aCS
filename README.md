@@ -21,4 +21,4 @@
 ### `AoMPS @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | `AoMPS` - The Art of Mathematical Problem Solving |  |
+| 1 | The Art of Mathematical Problem Solving |  |
