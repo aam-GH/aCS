@@ -1,9 +1,9 @@
-### `iCP @ ⟨Level 1⟩`
+### `iCP @ ⟨1st & 2nd Year⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | `iCP` - Introduction to CP | [###](https://www.codechef.com/) |  |
 
-### `fCS @ ⟨Level 2⟩`
+### `fCS @ ⟨3rd & 4th Year⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | Foundation Mathematics | [###](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
@@ -18,7 +18,7 @@
 | 10 | Database Management Systems | [###](https://www.vitalsource.com/products/introduction-to-database-management-mark-l-gillenson-v9780470460399) |  |
 | 11 | Computer Networks | [###](https://www.vitalsource.com/products/computer-networks-and-internets-douglas-e-comer-v9780133589139) |  |
 
-### `rCP @ ⟨Level 3⟩`
+### `rCP @ ⟨5th Year⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | CP Reference | [###](https://cpbook.net/) |  |
