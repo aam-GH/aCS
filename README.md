@@ -1,7 +1,7 @@
 ### `iCP @ ⟨1st & 2nd Year⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
-| 1 | `iCP` - Introduction to CP | [###](https://usaco.guide/) |  |
+| 1 | `iCP` - Introduction to CP | [###](https://www.codechef.com/) |  |
 
 ### `fCS @ ⟨3rd & 4th Year⟩`
 | Index | Subjects | Resources | Completion Status |
