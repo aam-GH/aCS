@@ -1,9 +1,9 @@
-### `Mathematics @ ⟨Level 1⟩`
+### `iMathematics @ ⟨Level 1⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | The Art of Mathematical Problem Solving | [###](https://artofproblemsolving.com/) |  |
 
-### `Computer Science @ ⟨Level 2⟩`
+### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | Discrete Mathematics | [###](https://www.vitalsource.com/products/discrete-mathematics-and-its-applications-kenneth-rosen-v9781259731709) |  |
@@ -20,7 +20,7 @@
 | 12 | Database Management Systems | [###](https://www.vitalsource.com/products/fundamentals-of-database-systems-ramez-elmasri-shamkant-b-v9780133971224) |  |
 | 13 | Computer Networks | [###](https://www.vitalsource.com/products/computer-networking-james-kurose-keith-ross-v9780135928523) |  |
 
-### `Competitive Programming @ ⟨Level 3⟩`
+### `rCP @ ⟨Level 3⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
-| 1 | Fundamentals of CP | [###](https://cpbook.net/) |  |
+| 1 | Fundamentals of Competitive Programming | [###](https://cpbook.net/) |  |
