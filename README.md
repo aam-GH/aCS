@@ -1,13 +1,12 @@
-### `iCP @ ⟨Level 1⟩`
+### `iMathematics @ ⟨Level 1⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
-| 1 | `iCP` - Introduction to CP | [###](https://www.codechef.com/) |  |
+| 1 | The Art of Mathematical Problem Solving | [###](https://artofproblemsolving.com/) |  |
 
 ### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
-| 1 | Foundation Mathematics | [###](https://www.vitalsource.com/products/bird-39-s-comprehensive-engineering-mathematics-john-bird-v9781351232852) |  |
-| 2 | Discrete Mathematics | [###](https://www.vitalsource.com/products/discrete-mathematics-and-its-applications-kenneth-rosen-v9781259731709) |  |
+| 1 | CS Mathematics | [Discrete Mathematics](https://www.vitalsource.com/products/discrete-mathematics-and-its-applications-kenneth-rosen-v9781259731709) <br /> [Linear Algebra](https://www.vitalsource.com/products/linear-algebra-and-its-applications-david-c-lay-steven-r-lay-v9780135851043) <br /> [Calculus](https://www.vitalsource.com/products/calculus-a-complete-course-robert-a-adams-vcalculusi9780134154367) <br /> [Probability and Statistics](https://www.vitalsource.com/products/introduction-to-probability-and-statistics-william-mendenhall-robert-j-v9780357044308a) |  |
 | 3 | Digital Logic Design | [###](https://www.vitalsource.com/products/digital-fundamentals-thomas-l-floyd-v9780133524390) |  |
 | 4 | Computer Organization and Architecture | [###](https://www.vitalsource.com/products/computer-organization-and-architecture-william-stallings-v9780135160930) |  |
 | 5 | Programming Language - C++ | [###](https://www.vitalsource.com/products/pearson-etext-introduction-to-c-programming-and-y-liang-v9780137454181) |  |
@@ -21,9 +20,4 @@
 ### `rCP @ ⟨Level 3⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
-| 1 | CP Reference | [###](https://cpbook.net/) |  |
-
-### `AoMPS @ ⟨Level 4⟩`
-| Index | Subjects | Resources | Completion Status |
-| :---: | :--- | :---: | :---: |
-| 1 | The Art of Mathematical Problem Solving | [###](https://artofproblemsolving.com/) |  |
+| 1 | Fundamentals of CP | [###](https://cpbook.net/) |  |
