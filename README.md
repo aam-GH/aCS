@@ -7,7 +7,6 @@
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | Foundation Mathematics | [###](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) |  |
-|  |  |  |  |
 | 2 | Discrete Mathematics | [###](https://www.vitalsource.com/products/mathematics-a-discrete-introduction-edward-a-scheinerman-v9781285402062) |  |
 | 3 | Digital Logic Design | [###](https://www.vitalsource.com/products/digital-logic-design-holdsworth-brian-woods-v9780750645829) |  |
 | 4 | Computer Organization and Architecture | [###](https://www.vitalsource.com/products/computer-organization-ghosh-v9789353164294) |  |
