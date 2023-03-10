@@ -21,3 +21,8 @@
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | The Art of Mathematical Problem Solving | [###](https://artofproblemsolving.com/) | 0 |
+
+### `rCP @ ⟨Level 4⟩`
+| Index | Subjects | Resources | Completion Status |
+| :---: | :--- | :---: | :---: |
+| 1 | CP Reference | [###](https://cpbook.net/) | 0 |
