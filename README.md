@@ -1,7 +1,7 @@
-### `AoMPS @ ⟨Level 1⟩`
+### `iMathematics @ ⟨Level 1⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [The Art of Mathematical Problem Solving](https://artofproblemsolving.com/) |  |
+| 1 | [Introduction to Mathematics](https://artofproblemsolving.com/) |  |
 
 ### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Completed? |
@@ -23,4 +23,4 @@
 ### `gCP @ ⟨Level 3⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Competitive Programming Geek](https://cpbook.net/) |  |
+| 1 | [Fun with Competitive Programming](https://cpbook.net/) |  |
