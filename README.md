@@ -1,7 +1,9 @@
 ### `iMathematics @ ⟨Level 1⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Introduction to Mathematics](https://artofproblemsolving.com/) |  |
+| 1 | [Algebra](https://www.vitalsource.com/products/developmental-mathematics-robert-f-blitzer-v9780134432915) |  |
+| 2 | [Geometry](https://www.vitalsource.com/products/elementary-geometry-for-college-students-daniel-c-alexander-geralyn-v9780357028155) |  |
+| 3 | [Precalculus](https://www.vitalsource.com/products/precalculus-subscription-robert-f-blitzer-v9780137322015) |  |
 
 ### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Completed? |
