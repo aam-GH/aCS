@@ -1,7 +1,7 @@
 ### `iCP @ ⟨Level 1⟩`
 | Index | Subjects | Completed? |
 | :---: | :--- | :---: |
-| 1 | [Introduction to Competitive Programming](https://usaco.guide/) |  |
+| 1 | [Introduction to Competitive Programming](https://www.codechef.com/) |  |
 
 ### `fCS @ ⟨Level 2⟩`
 | Index | Subjects | Completed? |
