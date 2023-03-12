@@ -1,4 +1,4 @@
-### `aCS @ ⟨The Art of CS⟩`
+### `aCS @ ⟨The Art of Computer Science⟩`
 | Index | Subjects | Resources | Completion Status |
 | :---: | :--- | :---: | :---: |
 | 1 | Introduction to Computer Science - `CP` | [###](https://www.codechef.com/) | 0 |
