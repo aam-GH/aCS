@@ -1,5 +1,5 @@
 ### `aCS @ ⟨The Art of CS⟩`
-| Index | Subjects | Resources | Completion Status |
+| Index | Subjects | Resources | cStatus |
 | :---: | :--- | :---: | :---: |
 | 1 | Introduction to Computer Science - `CP` | [»»»](https://www.codechef.com/) | 0 |
 | 2 | CS Mathematics | [Part 1](https://www.vitalsource.com/products/foundation-maths-anthony-croft-robert-davison-v9781292289731) <br /> [Part 2](https://www.vitalsource.com/products/mathematics-a-discrete-introduction-edward-a-scheinerman-v9781285402062) | 0 <br /> 0 |
